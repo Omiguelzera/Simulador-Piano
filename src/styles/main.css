@@ -3,6 +3,9 @@ body{
     align-items: center;
     justify-content:center;
     min-height: 100vh;
+    background-image: url(../images/PianoBackground.avif);
+    background-size:contain ;
+    background-repeat: no-repeat;
     background-color: #e3f2fd;
 }
 
